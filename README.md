@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UmarAbubakarMinjibir
+As - 👋 Hi, I’m @UmarAbubakarMinjibir
 - 👀 I’m interested in learning about about web development, machine learning and artificial intelligence 
 - 🌱 I’m currently learning ..front end development .
 - 💞️ I’m looking to collaborate on a chat app project 
